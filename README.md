@@ -1,1 +1,1 @@
-#Exemplo prático para o projeto giflo
+# Exemplo prático para o projeto giflo
